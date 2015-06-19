@@ -1,7 +1,6 @@
-## LELCloud
-Client MELCloud pour Pebble
+![LELCloud](http://mgeek.fr/media/lelcloud_logo.png)
 
-![Logo LELCloud](http://mgeek.fr/media/lelcloud_logo.png)
+Client MELCloud pour Pebble
 
 ---
 
@@ -13,4 +12,4 @@ N'hésitez pas à lever une "issue" pour que l'on essaie de régler les problèm
 
 ---
 
-Plus d'informations sur MELCloud et son fonctionnement : [Un peu de reverse engineering sur MELCloud](mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud)
+Plus d'informations sur MELCloud et son fonctionnement : [Un peu de reverse engineering sur MELCloud](http://mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud)
