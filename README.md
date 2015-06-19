@@ -1,6 +1,8 @@
 ## LELCloud
 Client MELCloud pour Pebble
 
+![Logo LELCloud](http://mgeek.fr/media/lelcloud_logo.png)
+
 ---
 
 MELCloud est une "webapp" (en ligne ou sur mobile) qui permet de commander et de surveiller des équipements Mitsubishi.
@@ -11,4 +13,4 @@ N'hésitez pas à lever une "issue" pour que l'on essaie de régler les problèm
 
 ---
 
-Plus d'informations sur MELCloud et son fonctionnement : ![Un peu de reverse engineering sur MELCloud](mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud)
+Plus d'informations sur MELCloud et son fonctionnement : [Un peu de reverse engineering sur MELCloud](mgeek.fr/blog/un-peu-de-reverse-engineering-sur-melcloud)
